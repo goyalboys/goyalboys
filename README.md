@@ -99,13 +99,16 @@ Real-time event-driven microservice architecture.
 🏅 Coursera Deep Learning Certification
 
 ---
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=goyalboys&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=goyalboys&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goyalboys&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goyalboys&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=goyalboys&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=goyalboys&theme=tokyonight" />
+</p>
 
 ---
 
